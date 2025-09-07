@@ -94,6 +94,10 @@ function render(d){
     ${routeBlock('IV direct', ins.IV_direct)}
     ${routeBlock('IV infusion', ins.IV_infusion)}
 
+    <dl class="kv">
+      <dt>ข้อควรระวัง</dt><dd>${escapeHTML(d.warning || '—')}</dd>
+    </dl>
+
     <div class="util">
       <h4>ตรวจความเข้มข้น (mg/mL)</h4>
       <div class="util-row">
