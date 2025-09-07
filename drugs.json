@@ -17,8 +17,10 @@
     "instructions": {
       "IM": "",
       "IV_direct": "",
-      "IV_infusion": "IV infusion\n- 150 mg/kg : 200 ml drip: 1 hr ตามด้วย\n- 50 mg/kg : 500 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 1000 ml drip: 16 hr\nน้ำหนัก 20-40 kg/จำกัดน้ำ:\n- 150 mg/kg : 100 ml drip: 1 hr ตามด้วย\n-50 mg/kg : 250 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 500 ml drip: 16 hr\n1. หลัง dilute ยามีความคงตัว 24 hr ที่อุณหภูมิห้อง\n2. อาจพบผื่นแดงและอาการหน้าแดง (flushing) หลังฉีดยาทางหลอดเลือดดำ 30-60 min1\n3. การ drip เร็วกว่า 1 hr ทำให้เกิด anaphylactoid reaction\n",
+      "IV_infusion": "IV infusion\n- 150 mg/kg : 200 ml drip: 1 hr ตามด้วย\n- 50 mg/kg : 500 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 1000 ml drip: 16 hr\nน้ำหนัก 20-40 kg/จำกัดน้ำ:\n- 150 mg/kg : 100 ml drip: 1 hr ตามด้วย\n-50 mg/kg : 250 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 500 ml drip: 16 hr",
       "Other": ""
+    },
+    "warning": "หลัง dilute ยามีความคงตัว 24 hr ที่อุณหภูมิห้อง\n2. อาจพบผื่นแดงและอาการหน้าแดง (flushing) หลังฉีดยาทางหลอดเลือดดำ 30-60 min1\n3. การ drip เร็วกว่า 1 hr ทำให้เกิด anaphylactoid reaction",
     },
     "concentration_mg_per_ml": {
       "min": null,
